@@ -32,9 +32,9 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=morzeta&theme=blue-green&card_width=800&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=morzeta&theme=blue-green&card_width=850&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 <br>
-[![morzeta GitHub stats](https://github-readme-stats.vercel.app/api?username=morzeta&theme=blue-green&card_width=800)](https://github.com/morzeta/github-readme-stats)
+[![morzeta GitHub stats](https://github-readme-stats.vercel.app/api?username=morzeta&theme=blue-green&card_width=850)](https://github.com/morzeta/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morzeta&theme=blue-green&card_width=800)](https://github.com/morzeta/github-readme-stats)
 <br>
