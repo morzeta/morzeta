@@ -42,7 +42,7 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=morzeta&theme=nord)](https://github.com/morzeta/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=morzeta&theme=matrix)](https://github.com/morzeta/github-profile-trophy)
 
 <br>
 
