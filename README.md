@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://giphy.com/gifs/tech-code-coding-QTfX9Ejfra3ZmNxh6B/giphy.gif" width="35">, I'm Morteza Eftekhar</h1>
+<h1 align="center">Hi <img src="https://giphy.com/gifs/2000s-00s-middle-school-MeJgB3yMMwIaHmKD4z/giphy.gif" width="35">, I'm Morteza Eftekhar</h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/morzeta?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/morzeta?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=morzeta.repoName) <img src="https://komarev.com/ghpvc/?username=morzeta" alt="morzeta" />
 
