@@ -50,7 +50,7 @@
 
 <br>
 
-[![Morteza's github activity graph](https://activity-graph.herokuapp.com/graph?username=morzeta&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/morzeta/github-readme-activity-graph)
+[![Morteza's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=morzeta&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/morzeta/github-readme-activity-graph)
 
 ---
 
