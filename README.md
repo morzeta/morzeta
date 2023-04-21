@@ -7,7 +7,7 @@
 
 - 🏢 I am currently working as a **mid-level Data Scientist** at [Bitex](https://bitex.ir/)
 - 🎓 Studied Physics of Complex Systems at [Sharif University of Technology](https://www.sharif.edu/web/physics/complex-systems)
-- 🏡'Lives in **Tehran, Iran** but will relocate to **Gent, Belgium** soon
+- 🏡 Live in **Tehran, Iran** but will relocate to **Gent, Belgium** soon
 - ⚡ **Fun Facts** : 🧗🎶🕹🏕🥾
 
 <br>
@@ -32,7 +32,13 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=morzeta&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![morzeta GitHub stats](https://github-readme-stats.vercel.app/api?username=morzeta&theme=blue-green)](https://github.com/morzeta/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morzeta&theme=blue-green)](https://github.com/morzeta/github-readme-stats)[![morzeta wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=morzeta&v=2&theme=blue-green)](https://github.com/morzeta/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=morzeta&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+<br>
+[![morzeta GitHub stats](https://github-readme-stats.vercel.app/api?username=morzeta&theme=blue-green)](https://github.com/morzeta/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morzeta&theme=blue-green)](https://github.com/morzeta/github-readme-stats)
+<br>
+[![morzeta wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=morzeta&v=2&theme=blue-green)](https://github.com/morzeta/github-readme-stats)
 
 
 
