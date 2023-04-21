@@ -36,10 +36,6 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morzeta&theme=blue-green&card_width=345)](https://github.com/morzeta/github-readme-stats)[![morzeta wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=morzeta&theme=blue-green)](https://github.com/morzeta/github-readme-stats)
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 
 <br>
 ## GitHub Thropies 🏆 :
