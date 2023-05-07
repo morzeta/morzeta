@@ -24,7 +24,7 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/python"/> <img src="https://img.icons8.com/color/tensorflow"/> <img src="https://img.icons8.com/color/git"/> <img src="https://img.icons8.com/color/docker"/> <img src="https://img.icons8.com/color/sql"/> <img src="https://www.pngwing.com/en/free-png-ayvgy"/> <img src="https://img.icons8.com/color/bash"/>
+<img src="https://img.icons8.com/color/python"/> <img src="https://img.icons8.com/color/tensorflow"/> <img src="https://img.icons8.com/color/git"/> <img src="https://img.icons8.com/color/docker"/> <img src="https://img.icons8.com/color/sql"/> <img src="https://img.icons8.com/color/bash"/>
 
 <br>
 
