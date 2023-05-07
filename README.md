@@ -20,7 +20,7 @@
 
 <br>
 
-## What I am Good at 🧑‍💻 :
+## What I am Good at <img src="https://img.icons8.com/color/programming"/> <img src="https://img.icons8.com/color/oop"/> :
 
 <br>
 
