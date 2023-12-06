@@ -7,7 +7,7 @@
 
 - 🏢 I am currently working as a **mid-level Data Scientist** at [Bitex](https://bitex.ir/)
 - 🎓 Studied Physics of Complex Systems at [Sharif University of Technology](https://www.sharif.edu/web/physics/complex-systems)
-- 🏡 Live in **Tehran, Iran** but will relocate to **Gent, Belgium** soon
+- 🏡 Live in **Gent, Belgium**
 - ⚡ **Fun Facts** : 🧗🎶🕹🏕🥾🤪
 
 <br>
