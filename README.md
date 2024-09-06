@@ -16,7 +16,7 @@
 
 <br>
 
-[![@morzeta](https://img.icons8.com/?size=45&id=wDGo581Ea5Nf&format=png&color=000000 "@morzeta")]((https://leetcode.com/morzeta/))
+[![@morzeta](https://img.icons8.com/?size=48&id=wDGo581Ea5Nf&format=png&color=000000 "@morzeta")]((https://leetcode.com/morzeta/))
 [![@mad.morz](https://img.icons8.com/fluency/48/000000/instagram-new.png "@mad.morz")](https://www.instagram.com/mad.morz/) 
 [![@Morteza.E](https://img.icons8.com/fluency/48/000000/facebook.png "@Morteza.E")](https://www.facebook.com/Morteza.E) 
 [![@morteza-eftekhar](https://img.icons8.com/fluency/48/000000/linkedin.png "@morteza-eftekhar")](https://www.linkedin.com/in/morteza-eftekhar) 
