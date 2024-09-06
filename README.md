@@ -17,11 +17,11 @@
 <br>
 
 [![@morzeta](https://img.icons8.com/?size=48&id=wDGo581Ea5Nf&format=png&color=000000 "@morzeta")]((https://leetcode.com/morzeta/))
+[![@morteza-eftekhar](https://img.icons8.com/fluency/48/000000/linkedin.png "@morteza-eftekhar")](https://www.linkedin.com/in/morteza-eftekhar) 
+[![@morz.eftekhar@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@morz.eftekhar@gmail.com")](morz.eftekhar@gmail.com)
 [![@mad.morz](https://img.icons8.com/fluency/48/000000/instagram-new.png "@mad.morz")](https://www.instagram.com/mad.morz/) 
 [![@Morteza.E](https://img.icons8.com/fluency/48/000000/facebook.png "@Morteza.E")](https://www.facebook.com/Morteza.E) 
-[![@morteza-eftekhar](https://img.icons8.com/fluency/48/000000/linkedin.png "@morteza-eftekhar")](https://www.linkedin.com/in/morteza-eftekhar) 
 [![@MadOne_OCD](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@MadOne_OCD")](https://twitter.com/MadOne_OCD) 
-[![@morz.eftekhar@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@morz.eftekhar@gmail.com")](morz.eftekhar@gmail.com)
 
 <br>
 
@@ -29,7 +29,15 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/python"/> <img src="https://img.icons8.com/color/golang"/> <img src="https://img.icons8.com/color/tensorflow"/> <img src="https://img.icons8.com/color/git"/> <img src="https://img.icons8.com/color/docker"/> <img src="https://img.icons8.com/color/sql"/> <img src="https://img.icons8.com/color/bash"/> <img src="https://img.icons8.com/color/pandas"/> <img src="https://img.icons8.com/cotton/api"/>  
+<img src="https://img.icons8.com/color/python"/>
+<img src="https://img.icons8.com/color/golang"/>
+<img src="https://img.icons8.com/color/tensorflow"/>
+<img src="https://img.icons8.com/color/git"/> 
+<img src="https://img.icons8.com/color/docker"/> 
+<img src="https://img.icons8.com/color/sql"/>
+<img src="https://img.icons8.com/color/bash"/>
+<img src="https://img.icons8.com/color/pandas"/>
+<img src="https://img.icons8.com/cotton/api"/>  
 
 <br>
 
