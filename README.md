@@ -16,7 +16,12 @@
 
 <br>
 
-[![@morzeta](https://img.icons8.com/?size=40&id=wDGo581Ea5Nf&format=png&color=000000 "@morzeta")](https://www.instagram.com/mad.morz/)[![@mad.morz](https://img.icons8.com/fluency/48/000000/instagram-new.png "@mad.morz")](https://www.instagram.com/mad.morz/) [![@Morteza.E](https://img.icons8.com/fluency/48/000000/facebook.png "@Morteza.E")](https://www.facebook.com/Morteza.E) [![@morteza-eftekhar](https://img.icons8.com/fluency/48/000000/linkedin.png "@morteza-eftekhar")](https://www.linkedin.com/in/morteza-eftekhar) [![@MadOne_OCD](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@MadOne_OCD")](https://twitter.com/MadOne_OCD) [![@morz.eftekhar@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@morz.eftekhar@gmail.com")](morz.eftekhar@gmail.com)
+[![@morzeta](https://img.icons8.com/?size=45&id=wDGo581Ea5Nf&format=png&color=000000 "@morzeta")]((https://leetcode.com/morzeta/))
+[![@mad.morz](https://img.icons8.com/fluency/48/000000/instagram-new.png "@mad.morz")](https://www.instagram.com/mad.morz/) 
+[![@Morteza.E](https://img.icons8.com/fluency/48/000000/facebook.png "@Morteza.E")](https://www.facebook.com/Morteza.E) 
+[![@morteza-eftekhar](https://img.icons8.com/fluency/48/000000/linkedin.png "@morteza-eftekhar")](https://www.linkedin.com/in/morteza-eftekhar) 
+[![@MadOne_OCD](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@MadOne_OCD")](https://twitter.com/MadOne_OCD) 
+[![@morz.eftekhar@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@morz.eftekhar@gmail.com")](morz.eftekhar@gmail.com)
 
 <br>
 
