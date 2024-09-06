@@ -29,15 +29,7 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/python"/>
-<img src="https://img.icons8.com/color/golang"/>
-<img src="https://img.icons8.com/color/tensorflow"/>
-<img src="https://img.icons8.com/color/git"/> 
-<img src="https://img.icons8.com/color/docker"/> 
-<img src="https://img.icons8.com/color/sql"/>
-<img src="https://img.icons8.com/color/bash"/>
-<img src="https://img.icons8.com/color/pandas"/>
-<img src="https://img.icons8.com/cotton/api"/>  
+<img src="https://img.icons8.com/color/python"/> <img src="https://img.icons8.com/color/golang"/> <img src="https://img.icons8.com/color/tensorflow"/> <img src="https://img.icons8.com/color/git"/>  <img src="https://img.icons8.com/color/docker"/>  <img src="https://img.icons8.com/color/sql"/> <img src="https://img.icons8.com/color/bash"/> <img src="https://img.icons8.com/color/pandas"/> <img src="https://img.icons8.com/cotton/api"/>  
 
 <br>
 
