@@ -5,7 +5,7 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Back-End Developer** at [Zarban](https://zarban.io/)
+- 🏢 I am currently working as a **Back-End Developer** at [Zarban](https://zarban.io/) & studying MSc in Data Science Engineering at UCLouvain 
 - 🎓 Studied Physics of Complex Systems at [Sharif University of Technology](https://www.sharif.edu/web/physics/complex-systems)
 - 🏡 Live in **Gent, Belgium**
 - ⚡ **Fun Facts** : 🧗🎶🕹🏕🥾🤪
