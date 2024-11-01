@@ -39,7 +39,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=morzeta&theme=blue-green&card_width=420&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)[![morzeta GitHub stats](https://github-readme-stats.vercel.app/api?username=morzeta&theme=blue-green&card_width=420&range=all_time)](https://github.com/morzeta/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morzeta&langs_count=8&theme=blue-green&card_width=345)](https://github.com/morzeta/github-readme-stats)[![morzeta wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=morzeta&theme=blue-green&range=last_7_days)](https://github.com/morzeta)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morzeta&theme=blue-green&card_width=345)](https://github.com/morzeta/github-readme-stats)[![morzeta wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=morzeta&theme=blue-green&range=last_7_days)](https://github.com/morzeta)
 
 
 <br>
@@ -50,12 +50,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=morzeta&theme=matrix)](https://github.com/morzeta/github-profile-trophy)
 
 <br>
-
+<!---
 ## Activity Graph 📊 :
-
+---
 <br>
-
+---
 [![Morteza's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=morzeta&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/morzeta/github-readme-activity-graph)
-
+--->
 ---
 
